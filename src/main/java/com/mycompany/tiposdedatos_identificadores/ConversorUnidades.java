@@ -4,7 +4,7 @@ package com.mycompany.tiposdedatos_identificadores;
  * Programa: Conversor de unidades de longitud
  * Autor: Stalin Mendieta
  * Descripción: Este programa solicita al usuario una cantidad en metros
- *              y la convierte a centímetros, pulgadas y pies.
+ *              y la convierte a centímetros, milímetros, kilómetros, pulgadas, pies y yardas.
  */
 
 import java.util.Scanner;
